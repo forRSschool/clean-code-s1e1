@@ -42,7 +42,8 @@
 .list-item, .title {
   list-style: none;
 }
-input, 
+.checkbox,
+.task, 
 .btn{
   outline: none;
 }
